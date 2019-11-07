@@ -20,7 +20,8 @@ O tema Shell é o Midnight-Gray, que pode ser <a href="https://www.gnome-look.or
 <br />
 ## Extensões
 <br />
-### User monitor (mostra dados do uso do computador em tempo real)
+<strong>User monitor (mostra dados do uso do computador em tempo real)</strong> 
+<br />
 Ela pode ser baixada diretamente pela loja de aplicativos da Ubuntu que vem no computador.
 <br />
 <br />
